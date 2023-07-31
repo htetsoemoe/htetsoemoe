@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soe Moe Htet</h1>
-<h3 align="center">A passionate full stack developer and continuous learner.</h3>
+<h3 align="center">A passionate full stack web developer and continuous learner.</h3>
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Web Design and Development.**
 
