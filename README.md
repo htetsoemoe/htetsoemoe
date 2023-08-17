@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soe Moe Htet</h1>
-<h3 align="center">A passionate full stack web developer and continuous learner.</h3>
+<h3 align="center">A passionate full stack web developer and lifelong learner.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Framework, React, Web Design and Development.**
+- 🌱 I’m currently learning **Java, Spring Framework, React, Redux Toolkit and UI/UX.**
 
-- 💬 Ask me about **Java, Spring Framework, JavaScript, React.**
+- 💬 Ask me about **Java, Spring Framework, JavaScript, React, MySQL.**
 
 - 📫 How to reach me **soemoehtet.mdy@gmail.com**
 
