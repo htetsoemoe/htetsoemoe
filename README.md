@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soe Moe Htet</h1>
 <h3 align="center">A passionate full stack web developer and lifelong learner.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Framework, React, Redux Toolkit and UI/UX.**
+- 🌱 I’m currently learning **Java, Spring Framework, React, Redux Toolkit, NodeJS, MongoDB and Express Framework.**
 
 - 💬 Ask me about **Java, Spring Framework, JavaScript, React, MySQL.**
 
