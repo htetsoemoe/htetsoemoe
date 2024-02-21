@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Redux Toolkit, NodeJS, MongoDB and Express Framework.**
 
-- 💬 Ask me about **Java, Spring Framework, JavaScript, React, MySQL.**
+- 💬 Ask me about **JavaScript, React, MongoDB, Mongoose, MySQL, Node.js, Express Framework.**
 
 - 📫 How to reach me **soemoehtet.mdy@gmail.com**
 
